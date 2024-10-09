@@ -1,3 +1,3 @@
 use `npm i`
-then use `node index.js`
+then use `npm start`
 to start the server
